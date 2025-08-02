@@ -21,7 +21,6 @@ O programa oferece as seguintes operações sobre grafos:
 9. **Consultar Lista Completa de Adjacentes** de um vértice  
 10. **Exportar Grafo** para um arquivo de texto  
 11. **Determinar o Menor Caminho** com o algoritmo de Dijkstra  
-0. **Sair** do programa  
 
 ---
 
