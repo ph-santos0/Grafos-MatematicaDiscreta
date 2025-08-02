@@ -20,10 +20,7 @@ O programa oferece as seguintes operações sobre grafos:
 8. **Consultar Próximo Adjacente** após um determinado vértice  
 9. **Consultar Lista Completa de Adjacentes** de um vértice  
 10. **Exportar Grafo** para um arquivo de texto  
-11. **Executar Busca em Profundidade** (DFS)  
-12. **Executar Busca em Largura** (BFS)  
-13. **Gerar Árvore Geradora Mínima** com o algoritmo de Prim  
-14. **Determinar o Menor Caminho** com o algoritmo de Dijkstra  
+11. **Determinar o Menor Caminho** com o algoritmo de Dijkstra  
 0. **Sair** do programa  
 
 ---
